@@ -1,0 +1,9 @@
+{
+	"name": "samazureproject",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c225f26e-8cf8-476c-b911-208225445e0c",
+		"tenantId": "2cf87357-438c-4ef4-9487-d15410059d4b"
+	}
+}
